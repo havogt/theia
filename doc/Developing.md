@@ -67,6 +67,7 @@ Some additional tools and libraries are needed depending on your platform:
   - Dependencies for `native-keymap` node native extension:
     - Debian-based: `sudo apt-get install libx11-dev libxkbfile-dev`
     - Red Hat-based: `sudo yum install libX11-devel.x86_64 libxkbfile-devel.x86_64 # or .i686`
+    - SUSE-based: `sudo zypper install libX11-devel libxkbfile-devel`
     - FreeBSD: `sudo pkg install libX11`
 
 - Linux/MacOS
